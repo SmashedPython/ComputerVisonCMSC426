@@ -14,7 +14,7 @@ This repository contains seven comprehensive projects completed for **CMSC426: C
 | 4   | `EpipolarGeometryRansac.ipynb`         | Epipolar Geometry & 8-Point Algorithm      | Estimates the fundamental matrix between views using RANSAC and the normalized 8-point algorithm. |
 | 5   | `AffineStructureFromMotion.ipynb`      | Structure from Motion (SfM)                | Reconstructs a 3D scene and camera path from tracked 2D points across frames using an affine factorization approach. |
 | 6   | `ClassifySegment.ipynb`                | Deep Learning: Classification & Segmentation | Trains CNNs using PyTorch for CIFAR-10 classification and image segmentation tasks. |
-| 7   | `monocular-visual-odometry/`           | Visual Odometry on Oxford Dataset          | Implements SIFT-based keypoint matching, essential matrix decomposition, and camera pose recovery to plot 3D trajectory. |
+| 7   | `MonocularVisualOdometry/`           | Visual Odometry on Oxford Dataset          | Implements SIFT-based keypoint matching, essential matrix decomposition, and camera pose recovery to plot 3D trajectory. |
 
 ---
 
