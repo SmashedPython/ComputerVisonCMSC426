@@ -1,6 +1,6 @@
 # 📷 Computer Vision Projects
 
-This repository contains seven comprehensive projects completed for **CMSC426: Computer Vision**. The projects cover both classical and modern techniques in computer vision, including image processing, geometric vision, 3D reconstruction, and deep learning for visual recognition.
+This repository contains seven comprehensive projects completed for **Computer Vision**. The projects cover both classical and modern techniques in computer vision, including image processing, geometric vision, 3D reconstruction, and deep learning for visual recognition.
 
 ---
 
